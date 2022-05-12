@@ -21,6 +21,8 @@ int main()
     std::cout << "Sum of fractions = " << SumOfFractions * 100 << " or " << SumOfFractions << "\n";
 }
 
+
+
 //Task 2
 
 #include <iostream>
@@ -39,6 +41,8 @@ int main()
 
     std::cout << "You must go at speed = " << Distance / Time << " (KM/H)";
 }
+
+
 
 //Task 3
 
@@ -62,8 +66,9 @@ int main()
     }
 }
 
-//Task 4
 
+
+//Task 4
 
 #include <iostream>
 
@@ -87,8 +92,9 @@ int main()
     std::cout << "Total amount = " << LaptopCost * LaptopQuantity / 100 * LaptopPercentOfDiscount - 0.01;
 }
 
-// Task 5
 
+
+// Task 5
 
 #include <iostream>
 
